@@ -20,6 +20,6 @@
 
    ---
    ### 📫 Contact
-   - **Blog**: [huluhuluu.github.io](https://huluhuluu.github.io/)
+   - **Blog**: [huluhuluu](https://my-blog-p39q.vercel.app/)
    - **Email**: huluhuluu@qq.com
    ---
