@@ -1,16 +1,25 @@
-## Hi there 👋
+   ## 👋 Hi there
+   
+   I'm Jiahui Zhou, a Master's student in Computer Science.
+   
+   ---
 
-<!--
-**huluhuluu/huluhuluu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   ### 🎓 Education
 
-Here are some ideas to get you started:
+   | Period | Institution |
+   |--------|-------------|
+   | 2024 - Present | Huazhong University of Science and Technology | 
+   | 2020 - 2024 | Hunan University | 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   ---
+
+   ### 🔬 Research Interests
+
+   - **On-device Inference Optimization** – Efficient deployment of deep learning models on resource-constrained edge devices
+   - **Cloud-Edge Collaborative Systems** – Architectures for collaborative training and inference across cloud and edge
+
+   ---
+   ### 📫 Contact
+   - **Blog**: [huluhuluu.github.io](https://huluhuluu.github.io/)
+   - **Email**: huluhuluu@qq.com
+   ---
